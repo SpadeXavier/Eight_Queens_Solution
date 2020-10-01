@@ -11,5 +11,5 @@ The code is laid out in 3 files
 - **main.py:** uses the simulation class as well as the python GUI package Kivy to visually represent all solutions possible 
 
 ## Running the Code 
-Simply download the repository and run the main.py 
+Simply download the repository and run main.py   
 *NOTE: Ensure you have the kivy python package downloaded* 
